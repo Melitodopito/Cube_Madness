@@ -3,4 +3,4 @@
 
  A simple platformer game, you are a potatoe with ADHS and you can jump.
 
- Srites and animations were creaated with Aseprite.
+ Sprites and animations were created with Aseprite.
